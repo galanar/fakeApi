@@ -24,22 +24,27 @@
 
   "reasons": [
 		{
+			"id": 1,
 			"reasonId": 1,
 			"defaultText": "reason 1"
 		},
 		{
+			"id": 2,
 			"reasonId": 2,
 			"defaultText": "reason 2"
 		},
 		{
+			"id": 3,
 			"reasonId": 3,
 			"defaultText": "reason 3"
 		},
 		{
+			"id": 4,
 			"reasonId": 4,
 			"defaultText": "reason 4"
 		},
-		{
+		{ 
+			"id": 5,
 			"reasonId": 5,
 			"defaultText": "reason 5"
 		}
